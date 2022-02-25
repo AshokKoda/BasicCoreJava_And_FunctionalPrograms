@@ -1,4 +1,4 @@
-package poweroftwo;
+package bridgelabz.com;
 
 import java.util.Scanner;
 

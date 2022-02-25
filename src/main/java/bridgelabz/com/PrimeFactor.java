@@ -1,4 +1,4 @@
-package factors;
+package bridgelabz.com;
 
 import java.util.Scanner;
 

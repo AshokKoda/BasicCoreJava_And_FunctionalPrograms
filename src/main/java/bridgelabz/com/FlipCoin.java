@@ -1,4 +1,4 @@
-package filpcoin;
+package bridgelabz.com;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
